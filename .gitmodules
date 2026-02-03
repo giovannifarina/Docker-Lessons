@@ -1,3 +1,6 @@
 [submodule "3_Redis"]
 	path = 3_Redis
 	url = https://github.com/giovannifarina/Redis_Docker_Deployment
+[submodule "4_Spark"]
+	path = 4_Spark
+	url = https://github.com/giovannifarina/Spark_Docker_Deployment
